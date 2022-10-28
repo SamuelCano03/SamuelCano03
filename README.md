@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samuel Cano</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
+<h3 align="center">A passionate computer science student from Peru :D</h3>
 
-- 🔭 I’m currently working on **UPC**
+- 🔭 I’m currently studying on **UPC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
