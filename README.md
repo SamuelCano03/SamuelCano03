@@ -23,5 +23,5 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
-[![](https://visitcount.itsvg.in/api?id=SamuelCano03&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=SamuelCano03&color=blueviolet&style=plastic)
 
