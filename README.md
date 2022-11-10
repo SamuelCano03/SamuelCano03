@@ -1,5 +1,4 @@
 # 💫 About Me:
-:books: I'm currently learning mobile development with Jetpack Compose and Flutter
 <br>:question: Ask me about C++, Python, Competitive Programming, Visual Studio Code 
 <br>:basketball: I love playing basketball
 <br>:chess_pawn: I am a ches lover
